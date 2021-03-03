@@ -13,7 +13,7 @@
 - TypeScript
 
 <h3 align="center">
-    APP: <a href="#" target="_blank">Visualizar aplicação <a>
+    APP: <a href="https://app-pomodoro-gamer.vercel.app/" target="_blank">Visualizar aplicação <a>
 </h3>
 
 <p align="center"> Developed by 🍄 Lília Paula </p>
